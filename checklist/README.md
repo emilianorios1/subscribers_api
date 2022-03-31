@@ -4,12 +4,12 @@
 
 |Requerimiento funcional|cant. mín.<br>1 o 2 integ|cant. máx.<br>3 o 4 integ|Detalle/Listado de casos|Cumple|
 |:-|-:|-:|:-|-|
-|ABMC simple|1 x integ|1 x integ|
-|ABMC dependiente|1|2|
-|Listado simple|1|1|
-|Listado complejo obligatorio|1|2|
+|ABMC simple|1 x integ|1 x integ|Localidad, Tipos de inmuebles, Servicios, Usuarios
+|ABMC dependiente|1|2|Inmuebles, Turno de visita
+|Listado simple|1|1|Servicios
+|Listado complejo obligatorio|1|2|Inmuebles, Usuarios
 |Listado adicional con filtro|0|0|
-|Detalle básico|1(*)|2(*)|
+|Detalle básico|1(*)|2(*)|Inmuebles, Usuarios, Servicios
 |Detalle parametrizable|0|0|
 |Otros|0|0|
 
