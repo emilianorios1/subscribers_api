@@ -7,7 +7,7 @@
 |ABMC simple|1 x integ|1 x integ|Localidad, Tipos de inmuebles, Servicios, Usuarios
 |ABMC dependiente|1|2|Inmuebles, Turno de visita
 |Listado simple|1|1|Servicios
-|Listado complejo obligatorio|1|2|Inmuebles, Usuarios
+|Listado complejo obligatorio|1|2|Inmuebles según localidad, Usuarios según rol
 |Listado adicional con filtro|0|0|
 |Detalle básico|1(*)|2(*)|Inmuebles, Usuarios, Servicios
 |Detalle parametrizable|0|0|
