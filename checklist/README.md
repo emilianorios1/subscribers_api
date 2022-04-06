@@ -1,5 +1,13 @@
 # Checklist
 
+## Descripcion del sistema
+
+Se plantea un sistema para una inmobiliaria, donde los usuarios son tanto los clientes de la misma, como sus empleados:
+
+Para el cliente, pretendemos lograr ofrecer una interfaz amigable, simple para encontrar mediante filtros apropiados la propiedad deseada. Además facilitar la gestión de post-ventas y alquileres vigentes.
+
+Para el empleado, se desarrollará una interfaz para facilitar la atención de los inmuebles que tenga a su cargo. Permitiendo cargar propiedades con sus características disponibles para alquiler y/o venta, gestionar la base de datos, etc.
+
 ## Backend
 
 |Requerimiento funcional|cant. mín.<br>1 o 2 integ|cant. máx.<br>3 o 4 integ|Detalle/Listado de casos|Cumple|
@@ -33,3 +41,12 @@
 |Uso de API REST o GraphQL||
 |ORM/ODM||
 |Base de datos persistente||
+
+## Integrantes del grupo
+
+|Nombre|Legajo|Mail|
+|:-|-:|-:|
+|Arias, Ramiro|43912|ariasramirox@gmail.com|
+|Altuzarra, Ernesto Tomas|45840|e.tomasaltuzarra@gmail.com|
+|Rios, Emiliano Dario|||
+|Sandoval, Julian|47087|juliansandoval1996@gmail.com|
