@@ -17,7 +17,7 @@ Para el empleado, se desarrollará una interfaz para facilitar la atención de l
 |Listado simple|1|1|Servicios
 |Listado complejo obligatorio|1|2|Inmuebles según localidad, Usuarios según rol
 |Listado adicional con filtro|0|0|
-|Detalle básico|1(*)|2(*)|Inmuebles, Servicios
+|Detalle básico|1(*)|2(*)|Inmuebles, Servicios (\*)mas detalles que los listados complejos
 |Detalle parametrizable|0|0|
 |Otros|0|0|
 
