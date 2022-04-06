@@ -45,8 +45,8 @@ Para el empleado, se desarrollará una interfaz para facilitar la atención de l
 ## Integrantes del grupo
 
 |Nombre|Legajo|Mail|
-|:-|-:|-:|
+|:-|:-|:-|
 |Arias, Ramiro|43912|ariasramirox@gmail.com|
 |Altuzarra, Ernesto Tomas|45840|e.tomasaltuzarra@gmail.com|
-|Rios, Emiliano Dario|||
+|Rios, Emiliano Dario|46408|emilianorios99@gmail.com|
 |Sandoval, Julian|47087|juliansandoval1996@gmail.com|
