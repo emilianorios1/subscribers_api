@@ -1,0 +1,27 @@
+GET http://localhost:3000/subscribers
+
+###
+GET http://localhost:3000/subscribers/624e3be7c27db31408f5e472
+
+
+###
+
+POST http://localhost:3000/subscribers
+Content-Type: application/json
+
+{
+  "name": "Tomas Peresin",
+  "subscribedToChannel": "JuegaGerman"
+}
+
+
+###
+DELETE http://localhost:3000/subscribers/624e3dd8c27db31408f5e481
+
+###
+PATCH http://localhost:3000/subscribers/624e3be7c27db31408f5e472
+Content-Type: application/json
+
+{
+  "subscribedToChannel": "CallMeCarson"
+}
