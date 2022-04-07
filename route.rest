@@ -1,4 +1,4 @@
-GET http://localhost:3000/subscribers
+GET http://localhost:3000/users
 
 ###
 GET http://localhost:3000/subscribers/624e3be7c27db31408f5e472
@@ -6,12 +6,17 @@ GET http://localhost:3000/subscribers/624e3be7c27db31408f5e472
 
 ###
 
-POST http://localhost:3000/subscribers
+POST http://localhost:3000/users
 Content-Type: application/json
 
 {
-  "name": "Tomas Peresin",
-  "subscribedToChannel": "JuegaGerman"
+    "email": "emilianorios99@gmail.com",
+    "password": "123",
+    "firstName": "Emiliano",
+    "lastName": "Rios",
+    "phoneNumber": "3476599932",
+    "address": "Montevideo 1255, Rosario, Santa Fe",
+    "employeeFlag": true
 }
 
 
